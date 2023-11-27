@@ -1,0 +1,79 @@
+.navbar{
+    background-color: #483D8B;
+   position: sticky;
+    background-color:rgba(166, 138, 206, 0.631372549);
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.nav a{
+    color: bisque;
+}
+
+
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.aboutus{
+    background-color:#f2f2f2 ;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a46;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.iBeyaz{
+    color:#343a46;
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid #f2f2f2;
+}
+
+.iBeyaz1{
+    border: none;
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.teams-card img:hover{
+opacity: 0.8;
+cursor: pointer;
+
+}
+
+.figure:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+ #imor2{
+    background-color: #483D8B;
+    color: white;
+}
+
+#imor2:hover{
+    opacity: 0.8;
+    cursor: pointer;
+    background-color:rgba(166, 138, 206, 0.631372549);
+}
+
+.footer1{
+    background-color:rgba(166, 138, 206, 0.631372549);
+   
+}
